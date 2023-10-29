@@ -1,4 +1,4 @@
-// C++ program to insert element in Binary Tree
+// C++ program to insert a set element in a Binary Tree
 
 #include <iostream>
 #include <queue>
